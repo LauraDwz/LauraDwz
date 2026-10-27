@@ -67,8 +67,7 @@ Analyse de complexité et optimisation d'algorithmes · Programmation orientée 
 
 ## Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=LauraDwz&show_icons=true&hide_border=true&count_private=true)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraDwz&layout=compact&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LauraDwz&theme=github&title_color=24292f&text_color=57606a&bg_color=ffffff&border_color=d0d7de&exclude=Jupyter%20Notebook,MATLAB,Makefile" alt="Mes langages" />
 
 ---
 
