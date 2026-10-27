@@ -73,4 +73,4 @@ Analyse de complexité et optimisation d'algorithmes · Programmation orientée 
 
 ## Contact
 
-Je suis ouverte aux opportunités de stage en informatique. N'hésitez pas à me contacter par [email](mailto:deruwezlaura@gmail.com).
+Je suis ouverte aux opportunités de stage en informatique. N'hésitez pas à me contacter.
